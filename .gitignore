@@ -1,0 +1,12 @@
+#System files
+.DS_Store
+
+#virtual environment
+dsp_test/
+
+#Python environment
+.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
